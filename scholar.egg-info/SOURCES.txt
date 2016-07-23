@@ -1,0 +1,8 @@
+setup.py
+scholar/__init__.py
+scholar/scholar.py
+scholar.egg-info/PKG-INFO
+scholar.egg-info/SOURCES.txt
+scholar.egg-info/dependency_links.txt
+scholar.egg-info/entry_points.txt
+scholar.egg-info/top_level.txt
